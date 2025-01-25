@@ -1,0 +1,40 @@
+@media (max-width: 767px) {
+ .modal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+ }
+
+
+.first-div {
+  display: flex;
+  width: 80%;
+  padding: 30px;
+  
+}
+
+.xinput{
+  width: 60%;
+  margin-right: 5px;
+  margin-left: 10px;
+  
+
+}
+
+.oinput {
+  width: 60%;
+  margin-left: 5px;
+  margin-right: 15px;
+
+}
+.scores{
+  display: flex;
+  justify-content: center;
+}
+
+.board {
+  margin-right: unset;
+}
+
+}
